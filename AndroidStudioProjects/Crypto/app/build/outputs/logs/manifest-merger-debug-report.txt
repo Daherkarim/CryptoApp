@@ -1,0 +1,207 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/Nadim Daher/AndroidStudioProjects/Crypto/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/Nadim Daher/AndroidStudioProjects/Crypto/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/Nadim Daher/AndroidStudioProjects/Crypto/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/Nadim Daher/AndroidStudioProjects/Crypto/app/src/main/AndroidManifest.xml:2:1-27:12
+MERGED from [com.jakewharton:butterknife:8.8.1] /Users/Nadim Daher/.gradle/caches/transforms-1/files-1.1/butterknife-8.8.1.aar/ea621e44db0a9f4d58c6a0af4ef41da3/AndroidManifest.xml:2:1-7:12
+MERGED from [com.android.support:design:26.1.0] /Users/Nadim Daher/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/602e101ebb043a099d4e286b9f969649/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/Nadim Daher/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/86ecc21c72bddc1a309d54df29b9f049/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/Nadim Daher/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/14274adf6d654f4b6a69d03da628a9eb/AndroidManifest.xml:2:1-11:12
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/Nadim Daher/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/5ae49f7ded3a94aaa87dbe32f63b6b91/AndroidManifest.xml:2:1-14:12
+MERGED from [com.android.support:cardview-v7:26.1.0] /Users/Nadim Daher/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/86c5ff9a845a8131f4ec2b3f2c3e0864/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/Nadim Daher/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/805bd41ba5cd589a6ae962fcd4dfc829/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/Nadim Daher/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/5af65409e80423da10a8cff2aed0eebb/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/Nadim Daher/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/f42425a35cbf6f568910ce56562d8462/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:transition:26.1.0] /Users/Nadim Daher/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/53008609bb87621ea6d9aa7ea600b095/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:exifinterface:27.1.0] /Users/Nadim Daher/.gradle/caches/transforms-1/files-1.1/exifinterface-27.1.0.aar/3c0c157d78096ef9903fbdf2e3a40e5f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:26.1.0] /Users/Nadim Daher/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/6107f5e3c271731f295b9bc9fd8acf72/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/Nadim Daher/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/2d2081da7a718038aae66fb963572800/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/Nadim Daher/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/3b6781e997b07840e3e55ea3410da34d/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/Nadim Daher/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/acfc89fdb1c6430f61b0ff498346eed3/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/Nadim Daher/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/ad0c9dc949b5f824e1f58d0fda6422e7/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] /Users/Nadim Daher/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/3145eaaff0d53a573a6b1909906c8711/AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/Nadim Daher/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/85eb671a5a178003412b17a48b8fe7b7/AndroidManifest.xml:17:1-30:12
+INJECTED from /Users/Nadim Daher/AndroidStudioProjects/Crypto/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/Nadim Daher/AndroidStudioProjects/Crypto/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/Nadim Daher/AndroidStudioProjects/Crypto/app/src/main/AndroidManifest.xml:2:1-27:12
+	package
+		ADDED from /Users/Nadim Daher/AndroidStudioProjects/Crypto/app/src/main/AndroidManifest.xml:3:5-44
+		INJECTED from /Users/Nadim Daher/AndroidStudioProjects/Crypto/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Nadim Daher/AndroidStudioProjects/Crypto/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/Nadim Daher/AndroidStudioProjects/Crypto/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Nadim Daher/AndroidStudioProjects/Crypto/app/src/main/AndroidManifest.xml:2:1-27:12
+		INJECTED from /Users/Nadim Daher/AndroidStudioProjects/Crypto/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/Nadim Daher/AndroidStudioProjects/Crypto/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Nadim Daher/AndroidStudioProjects/Crypto/app/src/main/AndroidManifest.xml:2:1-27:12
+		INJECTED from /Users/Nadim Daher/AndroidStudioProjects/Crypto/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/Nadim Daher/AndroidStudioProjects/Crypto/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/Nadim Daher/AndroidStudioProjects/Crypto/app/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /Users/Nadim Daher/AndroidStudioProjects/Crypto/app/src/main/AndroidManifest.xml:5:22-64
+application
+ADDED from /Users/Nadim Daher/AndroidStudioProjects/Crypto/app/src/main/AndroidManifest.xml:7:5-25:19
+MERGED from [com.android.support:design:26.1.0] /Users/Nadim Daher/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/602e101ebb043a099d4e286b9f969649/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:design:26.1.0] /Users/Nadim Daher/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/602e101ebb043a099d4e286b9f969649/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/Nadim Daher/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/86ecc21c72bddc1a309d54df29b9f049/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/Nadim Daher/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/86ecc21c72bddc1a309d54df29b9f049/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/Nadim Daher/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/14274adf6d654f4b6a69d03da628a9eb/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/Nadim Daher/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/14274adf6d654f4b6a69d03da628a9eb/AndroidManifest.xml:9:5-20
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/Nadim Daher/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/5ae49f7ded3a94aaa87dbe32f63b6b91/AndroidManifest.xml:7:5-12:19
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/Nadim Daher/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/5ae49f7ded3a94aaa87dbe32f63b6b91/AndroidManifest.xml:7:5-12:19
+MERGED from [com.android.support:cardview-v7:26.1.0] /Users/Nadim Daher/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/86c5ff9a845a8131f4ec2b3f2c3e0864/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:cardview-v7:26.1.0] /Users/Nadim Daher/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/86c5ff9a845a8131f4ec2b3f2c3e0864/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/Nadim Daher/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/805bd41ba5cd589a6ae962fcd4dfc829/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/Nadim Daher/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/805bd41ba5cd589a6ae962fcd4dfc829/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/Nadim Daher/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/5af65409e80423da10a8cff2aed0eebb/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/Nadim Daher/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/5af65409e80423da10a8cff2aed0eebb/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/Nadim Daher/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/f42425a35cbf6f568910ce56562d8462/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/Nadim Daher/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/f42425a35cbf6f568910ce56562d8462/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] /Users/Nadim Daher/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/53008609bb87621ea6d9aa7ea600b095/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] /Users/Nadim Daher/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/53008609bb87621ea6d9aa7ea600b095/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/Nadim Daher/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/6107f5e3c271731f295b9bc9fd8acf72/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/Nadim Daher/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/6107f5e3c271731f295b9bc9fd8acf72/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/Nadim Daher/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/2d2081da7a718038aae66fb963572800/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/Nadim Daher/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/2d2081da7a718038aae66fb963572800/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/Nadim Daher/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/3b6781e997b07840e3e55ea3410da34d/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/Nadim Daher/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/3b6781e997b07840e3e55ea3410da34d/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/Nadim Daher/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/acfc89fdb1c6430f61b0ff498346eed3/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/Nadim Daher/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/acfc89fdb1c6430f61b0ff498346eed3/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/Nadim Daher/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/ad0c9dc949b5f824e1f58d0fda6422e7/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/Nadim Daher/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/ad0c9dc949b5f824e1f58d0fda6422e7/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/Nadim Daher/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/3145eaaff0d53a573a6b1909906c8711/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/Nadim Daher/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/3145eaaff0d53a573a6b1909906c8711/AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/Nadim Daher/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/85eb671a5a178003412b17a48b8fe7b7/AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/Nadim Daher/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/85eb671a5a178003412b17a48b8fe7b7/AndroidManifest.xml:24:5-28:19
+	android:supportsRtl
+		ADDED from /Users/Nadim Daher/AndroidStudioProjects/Crypto/app/src/main/AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from /Users/Nadim Daher/AndroidStudioProjects/Crypto/app/src/main/AndroidManifest.xml:10:9-31
+	android:roundIcon
+		ADDED from /Users/Nadim Daher/AndroidStudioProjects/Crypto/app/src/main/AndroidManifest.xml:11:9-54
+	android:icon
+		ADDED from /Users/Nadim Daher/AndroidStudioProjects/Crypto/app/src/main/AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from /Users/Nadim Daher/AndroidStudioProjects/Crypto/app/src/main/AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from /Users/Nadim Daher/AndroidStudioProjects/Crypto/app/src/main/AndroidManifest.xml:13:9-40
+activity#com.example.karimdaher.crypto.MainActivity
+ADDED from /Users/Nadim Daher/AndroidStudioProjects/Crypto/app/src/main/AndroidManifest.xml:14:9-20:20
+	android:name
+		ADDED from /Users/Nadim Daher/AndroidStudioProjects/Crypto/app/src/main/AndroidManifest.xml:14:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/Nadim Daher/AndroidStudioProjects/Crypto/app/src/main/AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from /Users/Nadim Daher/AndroidStudioProjects/Crypto/app/src/main/AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from /Users/Nadim Daher/AndroidStudioProjects/Crypto/app/src/main/AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/Nadim Daher/AndroidStudioProjects/Crypto/app/src/main/AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from /Users/Nadim Daher/AndroidStudioProjects/Crypto/app/src/main/AndroidManifest.xml:18:27-74
+activity#com.example.karimdaher.crypto.fragments.CurrencyDetails
+ADDED from /Users/Nadim Daher/AndroidStudioProjects/Crypto/app/src/main/AndroidManifest.xml:21:9-24:24
+	android:label
+		ADDED from /Users/Nadim Daher/AndroidStudioProjects/Crypto/app/src/main/AndroidManifest.xml:23:13-36
+	android:name
+		ADDED from /Users/Nadim Daher/AndroidStudioProjects/Crypto/app/src/main/AndroidManifest.xml:22:13-83
+uses-sdk
+INJECTED from /Users/Nadim Daher/AndroidStudioProjects/Crypto/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/Nadim Daher/AndroidStudioProjects/Crypto/app/src/main/AndroidManifest.xml
+INJECTED from /Users/Nadim Daher/AndroidStudioProjects/Crypto/app/src/main/AndroidManifest.xml
+MERGED from [com.jakewharton:butterknife:8.8.1] /Users/Nadim Daher/.gradle/caches/transforms-1/files-1.1/butterknife-8.8.1.aar/ea621e44db0a9f4d58c6a0af4ef41da3/AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton:butterknife:8.8.1] /Users/Nadim Daher/.gradle/caches/transforms-1/files-1.1/butterknife-8.8.1.aar/ea621e44db0a9f4d58c6a0af4ef41da3/AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:design:26.1.0] /Users/Nadim Daher/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/602e101ebb043a099d4e286b9f969649/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:26.1.0] /Users/Nadim Daher/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/602e101ebb043a099d4e286b9f969649/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/Nadim Daher/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/86ecc21c72bddc1a309d54df29b9f049/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/Nadim Daher/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/86ecc21c72bddc1a309d54df29b9f049/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/Nadim Daher/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/14274adf6d654f4b6a69d03da628a9eb/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/Nadim Daher/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/14274adf6d654f4b6a69d03da628a9eb/AndroidManifest.xml:5:5-7:41
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/Nadim Daher/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/5ae49f7ded3a94aaa87dbe32f63b6b91/AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/Nadim Daher/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/5ae49f7ded3a94aaa87dbe32f63b6b91/AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:cardview-v7:26.1.0] /Users/Nadim Daher/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/86c5ff9a845a8131f4ec2b3f2c3e0864/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:26.1.0] /Users/Nadim Daher/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/86c5ff9a845a8131f4ec2b3f2c3e0864/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/Nadim Daher/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/805bd41ba5cd589a6ae962fcd4dfc829/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/Nadim Daher/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/805bd41ba5cd589a6ae962fcd4dfc829/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/Nadim Daher/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/5af65409e80423da10a8cff2aed0eebb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/Nadim Daher/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/5af65409e80423da10a8cff2aed0eebb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/Nadim Daher/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/f42425a35cbf6f568910ce56562d8462/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/Nadim Daher/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/f42425a35cbf6f568910ce56562d8462/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] /Users/Nadim Daher/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/53008609bb87621ea6d9aa7ea600b095/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] /Users/Nadim Daher/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/53008609bb87621ea6d9aa7ea600b095/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.0] /Users/Nadim Daher/.gradle/caches/transforms-1/files-1.1/exifinterface-27.1.0.aar/3c0c157d78096ef9903fbdf2e3a40e5f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.0] /Users/Nadim Daher/.gradle/caches/transforms-1/files-1.1/exifinterface-27.1.0.aar/3c0c157d78096ef9903fbdf2e3a40e5f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] /Users/Nadim Daher/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/6107f5e3c271731f295b9bc9fd8acf72/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /Users/Nadim Daher/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/6107f5e3c271731f295b9bc9fd8acf72/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/Nadim Daher/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/2d2081da7a718038aae66fb963572800/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/Nadim Daher/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/2d2081da7a718038aae66fb963572800/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/Nadim Daher/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/3b6781e997b07840e3e55ea3410da34d/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/Nadim Daher/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/3b6781e997b07840e3e55ea3410da34d/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/Nadim Daher/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/acfc89fdb1c6430f61b0ff498346eed3/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/Nadim Daher/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/acfc89fdb1c6430f61b0ff498346eed3/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/Nadim Daher/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/ad0c9dc949b5f824e1f58d0fda6422e7/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/Nadim Daher/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/ad0c9dc949b5f824e1f58d0fda6422e7/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /Users/Nadim Daher/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/3145eaaff0d53a573a6b1909906c8711/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /Users/Nadim Daher/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/3145eaaff0d53a573a6b1909906c8711/AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/Nadim Daher/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/85eb671a5a178003412b17a48b8fe7b7/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/Nadim Daher/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/85eb671a5a178003412b17a48b8fe7b7/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/Nadim Daher/AndroidStudioProjects/Crypto/app/src/main/AndroidManifest.xml
+INJECTED from /Users/Nadim Daher/AndroidStudioProjects/Crypto/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.1.0] /Users/Nadim Daher/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/602e101ebb043a099d4e286b9f969649/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /Users/Nadim Daher/AndroidStudioProjects/Crypto/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Nadim Daher/AndroidStudioProjects/Crypto/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Nadim Daher/AndroidStudioProjects/Crypto/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/Nadim Daher/AndroidStudioProjects/Crypto/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Nadim Daher/AndroidStudioProjects/Crypto/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Nadim Daher/AndroidStudioProjects/Crypto/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.1.0] /Users/Nadim Daher/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/602e101ebb043a099d4e286b9f969649/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/Nadim Daher/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/86ecc21c72bddc1a309d54df29b9f049/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/Nadim Daher/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/86ecc21c72bddc1a309d54df29b9f049/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:cardview-v7:26.1.0] /Users/Nadim Daher/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/86c5ff9a845a8131f4ec2b3f2c3e0864/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:cardview-v7:26.1.0] /Users/Nadim Daher/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/86c5ff9a845a8131f4ec2b3f2c3e0864/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/Nadim Daher/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/805bd41ba5cd589a6ae962fcd4dfc829/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/Nadim Daher/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/805bd41ba5cd589a6ae962fcd4dfc829/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/Nadim Daher/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/5af65409e80423da10a8cff2aed0eebb/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/Nadim Daher/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/5af65409e80423da10a8cff2aed0eebb/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/Nadim Daher/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/f42425a35cbf6f568910ce56562d8462/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/Nadim Daher/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/f42425a35cbf6f568910ce56562d8462/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] /Users/Nadim Daher/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/53008609bb87621ea6d9aa7ea600b095/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] /Users/Nadim Daher/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/53008609bb87621ea6d9aa7ea600b095/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/Nadim Daher/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/6107f5e3c271731f295b9bc9fd8acf72/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/Nadim Daher/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/6107f5e3c271731f295b9bc9fd8acf72/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/Nadim Daher/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/2d2081da7a718038aae66fb963572800/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/Nadim Daher/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/2d2081da7a718038aae66fb963572800/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/Nadim Daher/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/3b6781e997b07840e3e55ea3410da34d/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/Nadim Daher/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/3b6781e997b07840e3e55ea3410da34d/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/Nadim Daher/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/acfc89fdb1c6430f61b0ff498346eed3/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/Nadim Daher/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/acfc89fdb1c6430f61b0ff498346eed3/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/Nadim Daher/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/ad0c9dc949b5f824e1f58d0fda6422e7/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/Nadim Daher/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/ad0c9dc949b5f824e1f58d0fda6422e7/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/Nadim Daher/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/3145eaaff0d53a573a6b1909906c8711/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/Nadim Daher/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/3145eaaff0d53a573a6b1909906c8711/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:design:26.1.0] /Users/Nadim Daher/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/602e101ebb043a099d4e286b9f969649/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:design:26.1.0] /Users/Nadim Daher/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/602e101ebb043a099d4e286b9f969649/AndroidManifest.xml:27:13-51
+provider#com.squareup.picasso.PicassoProvider
+ADDED from [com.squareup.picasso:picasso:2.71828] /Users/Nadim Daher/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/5ae49f7ded3a94aaa87dbe32f63b6b91/AndroidManifest.xml:8:9-11:40
+	android:authorities
+		ADDED from [com.squareup.picasso:picasso:2.71828] /Users/Nadim Daher/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/5ae49f7ded3a94aaa87dbe32f63b6b91/AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.squareup.picasso:picasso:2.71828] /Users/Nadim Daher/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/5ae49f7ded3a94aaa87dbe32f63b6b91/AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [com.squareup.picasso:picasso:2.71828] /Users/Nadim Daher/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/5ae49f7ded3a94aaa87dbe32f63b6b91/AndroidManifest.xml:9:13-64
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/Nadim Daher/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/85eb671a5a178003412b17a48b8fe7b7/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/Nadim Daher/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/85eb671a5a178003412b17a48b8fe7b7/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/Nadim Daher/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/85eb671a5a178003412b17a48b8fe7b7/AndroidManifest.xml:26:13-58
